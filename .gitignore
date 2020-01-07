@@ -1,0 +1,7 @@
+.idea
+modules
+public/uploads/*
+dist/nombreproyecto
+node_modules
+mochawesome-report
+package-lock.json
